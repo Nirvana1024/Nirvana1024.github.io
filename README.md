@@ -1,14 +1,8 @@
-# Ether Shop
+# https://zmwang622.github.io/
+## What's Happening
+I always wanted to learn web dev. Took two web dev courses (Khan Academy and PluralSight) senior year of high school, but neither amounted to much. After the first snow day in 15 years at Pitt, I decided to try again this time on [FreeCodeCamp](freecodecamp.org). Check my progress [here](https://github.com/Zmwang622/FreeCodeCamp)!
 
-<img align="center" src="./Eshop.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-
-
-
-#### This is a Dapp (Decentrailized Application) based on ethereum blockchain. It is an e-commerce application that allow users and sellers transact product using ETH coins.
-
-
-
+Immediately after completing a good portion of courses/lessons, I decided to start building my website. This time I actually did it! You can check it out at:
+https://zmwang622.github.io/
 
 
